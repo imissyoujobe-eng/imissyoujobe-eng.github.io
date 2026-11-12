@@ -1,0 +1,3 @@
+# GitHub Pages skips folders that start with a dot unless they're listed here.
+# .well-known holds assetlinks.json, which lets the Pocket Arcade app open full screen.
+include: [".well-known"]
