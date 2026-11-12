@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.imissyoujobe.pocketarcade",
+      "sha256_cert_fingerprints": [
+        "98:4D:E8:4E:02:23:15:62:DD:0B:63:41:8C:56:CD:08:74:C9:82:99:C7:F1:DC:65:D8:A1:43:F4:77:84:56:AD"
+      ]
+    }
+  }
+]
